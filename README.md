@@ -139,15 +139,4 @@ GA-BiLSTM/
 
 MIT License — free to use, modify, and distribute.
 
----
 
-If you want, I can also generate:
-
-✅ A **version with diagrams & architecture images**
-✅ A **research-paper style README**
-✅ A **minimal version for PyPI packaging**
-
-Just tell me which style you prefer.
-
-```
-```
